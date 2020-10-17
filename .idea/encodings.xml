@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spark-demo-ip-location/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-demo-ip-location/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-demo-mobile-location/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-demo-mobile-location/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-demo-mobile-location/src/main/resources/样例数据说明.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spark-demo-sortbykey/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-demo-sortbykey/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-demo-topn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-demo-topn/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-demo-wordcount/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-demo-wordcount/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-hive-orc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-hive-orc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-sql-movie-rating/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-sql-movie-rating/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

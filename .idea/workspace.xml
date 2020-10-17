@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f969c860-bbf0-4f43-b9a7-724f010511b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.2.2\conf\settings_online.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cLg5TcwuBY6Sc8tk2bmI2OhEHi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spark-hive-orc/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace\miniprogram\study-spark-demo\spark-hive-orc\src\main\resources" />
+      <recent name="F:\workspace\miniprogram\study-spark-demo\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestOrcReader">
+    <configuration name="ReadHiveTest" type="Application" factoryName="Application" temporary="true">
+      <envs>
+        <env name="HADOOP_HOME" value="F:\hadoop\hadoop-2.10.1" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.meritdata.spark.orc.ReadHiveTest" />
+      <module name="spark-hive-orc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meritdata.spark.orc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadOrcFileTest" type="Application" factoryName="Application" temporary="true">
+      <envs>
+        <env name="HADOOP_HOME" value="F:\hadoop\hadoop-2.6.2" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.meritdata.spark.orc.ReadOrcFileTest" />
+      <module name="spark-hive-orc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meritdata.spark.orc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkSqlMovieRating" type="Application" factoryName="Application" temporary="true">
+      <envs>
+        <env name="HADOOP_HOME" value="F:\hadoop\hadoop-2.6.2" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.meritdata.spark.sql.SparkSqlMovieRating" />
+      <module name="spark-sql-movie-rating" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meritdata.spark.sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOrcReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="HADOOP_HOME" value="F:\hadoop\hadoop-2.10.1" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.meritdata.spark.TestOrcReader" />
+      <module name="spark-hive-orc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meritdata.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
+      <envs>
+        <env name="JAVA_HOME" value="E:\JAVA\jdk1.8.0_141" />
+        <env name="HADOOP_HOME" value="F:\hadoop\hadoop-2.6.2" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.meritdata.spark.demo.WordCount" />
+      <module name="spark-demo-wordcount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meritdata.spark.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="study-spark-demo [compile]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="scala:compile" />
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SparkSqlMovieRating" />
+      <item itemvalue="Application.WordCount" />
+      <item itemvalue="Application.TestOrcReader" />
+      <item itemvalue="Application.ReadOrcFileTest" />
+      <item itemvalue="Application.ReadHiveTest" />
+      <item itemvalue="Maven.study-spark-demo [compile]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestOrcReader" />
+        <item itemvalue="Application.ReadHiveTest" />
+        <item itemvalue="Application.ReadOrcFileTest" />
+        <item itemvalue="Application.SparkSqlMovieRating" />
+        <item itemvalue="Application.WordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f969c860-bbf0-4f43-b9a7-724f010511b9" name="Default Changelist" comment="" />
+      <created>1590313103880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590313103880</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="268" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1602146776672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602146776672" />
+    <state x="414" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602155926341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602155926341" />
+    <state x="660" y="218" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1602064649109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="218" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602064649109" />
+    <state x="478" y="29" key="#study-spark-demo_[compile]" timestamp="1602062712679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="478" y="29" key="#study-spark-demo_[compile]/0.0.1920.1040@0.0.1920.1040" timestamp="1602062712679" />
+    <state x="633" y="228" key="EnvironmentVariablesDialog" timestamp="1602155925737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="633" y="228" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602155925737" />
+    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1602063379856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602063379856" />
+    <state width="1867" height="400" key="GridCell.Tab.0.bottom" timestamp="1602170017579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="400" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602170017579" />
+    <state width="1867" height="400" key="GridCell.Tab.0.center" timestamp="1602170017579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="400" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602170017579" />
+    <state width="1867" height="400" key="GridCell.Tab.0.left" timestamp="1602170017578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="400" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602170017578" />
+    <state width="1867" height="400" key="GridCell.Tab.0.right" timestamp="1602170017579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="400" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602170017579" />
+    <state x="345" y="0" key="SettingsEditor" timestamp="1602154936091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="345" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602154936091" />
+    <state x="161" y="148" key="new project wizard" timestamp="1602064243528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="148" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1602064243528" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1602155782338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602155782338" />
+  </component>
+</project>
